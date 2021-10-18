@@ -72,6 +72,10 @@ code, pre{
   border-bottom: 2px solid #ffffff;
 }
 
+.navbar .logo a:hover{
+  text-decoration: none;
+}
+
 .navbar .flex{
   justify-content: space-between;
 }
