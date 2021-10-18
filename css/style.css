@@ -73,7 +73,7 @@ code, pre{
 }
 
 .navbar .logo a:hover{
-  text-decoration: none;
+  border-bottom: 0;
 }
 
 .navbar .flex{
